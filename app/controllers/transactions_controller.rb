@@ -24,6 +24,7 @@ class TransactionsController < ApplicationController
   end
 
   def update
+    binding.pry
     if @transaction.send(params[:operation])
       flash[:notice] = "Transaction has been #{params[:operation]}."
     else

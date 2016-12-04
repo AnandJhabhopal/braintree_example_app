@@ -15,6 +15,7 @@ gem "less-rails"
 gem 'twitter-bootstrap-rails'
 
 group :development, :test do
+  gem 'pry'
   gem 'quiet_assets'
   gem 'sqlite3'
   gem 'rspec-rails', "~> 2.14.2"

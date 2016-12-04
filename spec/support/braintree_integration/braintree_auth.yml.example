@@ -1,8 +1,8 @@
 ---
-merchant_id: 'merchant_id'
-public_key: 'public_key'
-private_key: 'private_key'
-client_side_encryption_key: 'client_side_encryption_key'
-login: 'braintree-sandbox-username'
-password: 'password'
+merchant_id: 's974cqw7zxpvrpgv'
+public_key: 'qd62zh44pgn9h9ww'
+private_key: '0cb012b128e78b9af83252cea194d9ec'
+client_side_encryption_key: 'MIIBCgKCAQEAt94spifKpKFgUMqyC5vk9Po5haon6ow+TVIMfibH11Q8kZQtJp9mallTwSHzWFh8reMjcjOANsyizNVjewDhBtnxEBN3zs/SQU4IgbFGwROs/Xw3QOX2akjQbEbOQ3r0WrxS3urPBKMqQQpbm5OVFoCHOJ3THNCWB6+kdTIvm12fiFMH7kW61KfPKPk3iDxOf1eIct5119INbQla6KUaRdKTt5kwO3oEzZ8RkvYms9tEWwLpyB6FT+Rd/l2d4kTj+PxQUAhsy1sVRqFjR2KOSFE0Cvxlk38hYUEhXNZk9vGt42uk6o3zzjCSP2cwa2RyVaW269PB2pdFSgGFhMak7wIDAQAB'
+login: 'anand@carmatec.in'
+password: 'pulser@220meri'
 
